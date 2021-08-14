@@ -1,16 +1,4 @@
 /**
- * Use terminal to run this script
- * > $ node structural.js
- */
-
-/**
- *
- *
- *  Structural Types
- *
- */
-
-/**
  * null & undefined
  */
 var i_am_null = null;

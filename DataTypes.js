@@ -1,16 +1,4 @@
 /**
- * Use terminal to run this script
- * > $ node index.js
- */
-
-/**
- *
- *
- *  Data Types
- *
- */
-
-/**
  * undefined
  */
 console.log("variable_declared :>> ", variable_declared);
