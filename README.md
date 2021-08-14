@@ -1,8 +1,9 @@
-# Javascirpt Types
+- Javascirpt Types
   * [Data Types](#data-types)
   * [Structural Types](#structural-types)
 
-# Data Types
+
+## Data Types
 Javascipt裡面有6個 **data types**
 1. undefined
 2. Boolean
@@ -11,7 +12,7 @@ Javascipt裡面有6個 **data types**
 5. BigInt
 6. Symbol
 
-# Structural Types
+## Structural Types
 1. Object
 2. Function
 3. null
