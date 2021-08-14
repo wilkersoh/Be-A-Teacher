@@ -3,7 +3,5 @@
   * [Closure](#closure)
 
 # Javascript
-  ## types
+  ## Types
   - Lesson-001
-
-
