@@ -4,4 +4,4 @@
 
 # Javascript
   ## Types
-  - Lesson-001
+  - Lesson-001 (Primitive, Object, Types)
