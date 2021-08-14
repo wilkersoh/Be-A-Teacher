@@ -1,7 +1,9 @@
-- [CSS](#css)
-  * [Flexbox](#flexbox)
 - [Javascript](#javascript)
+  * [Types](#types)
+  * [Closure](#closure)
 
-# CSS
-## Flexbox
+# Javascript
+  ## types
   - Lesson-001
+
+
