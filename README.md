@@ -5,6 +5,8 @@
 
 # Javascript
   ## Types
-  - Lesson-001 (Primitive, Object, Types)
+    - Lesson-001 (Primitive, Object, Types)
   ## Mutable-Immutable
-  - Lesson-002
+    - Lesson-002
+  ## Closure
+    - Lesson-003
