@@ -17,3 +17,11 @@ var string = "cat";
 var newString = string.toUpperCase();
 console.log('string :>> ', string); // not effect
 console.log('newString :>> ', newString); // uppercase
+
+
+function primitiveMutator(val) {
+  return val = val + 1;
+}
+var xx = 1;
+primitiveMutator(xx);
+console.log(xx); // 1
