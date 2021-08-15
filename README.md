@@ -12,4 +12,5 @@
 每次修改一个immutable对象时都会创建一个新的不可变对象，在新对象上的操作不会影响到原对象的数据
 1. Primitive Types 都是 **immutable** 來的
 2. By value
+3. 為什麼 我們要用 Immutable Data？ 因為有時候 你的data 不要被 changed
 
