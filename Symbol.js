@@ -2,7 +2,17 @@
  * Every Symbol is unique and immutable primitive
  */
 
-console.log('Symbol() === Sysmbol() :>> ', Symbol() === Sysmbol());
+Number();
+// shortchat > 3
+String();
+// shortchat > "3"
+Boolean()
+// shortchat > true
+
+// Symbol not exist shortcut
+Symbol();
+
+console.log("Symbol() === Sysmbol() :>> ", Symbol() === Sysmbol()); // false
 
 var directions = {
   UP   : Symbol( "UP" ),
