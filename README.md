@@ -2,6 +2,7 @@
   * [Types](#types)
   * [Mutable-Immutable](#mutable-immutable)
   * [Closure](#closure)
+  * [Scope](#scope)
 
 # Javascript
   ## Types
@@ -10,3 +11,5 @@
     - Lesson-002
   ## Closure
     - Lesson-003
+
+  ## Scope
