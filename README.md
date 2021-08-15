@@ -11,5 +11,5 @@
     - Lesson-002
   ## Closure
     - Lesson-003
-
   ## Scope
+    - Lesson-004
