@@ -6,12 +6,17 @@
 
 ## Data Types
 Javascipt裡面有6個 **data types** 而且他們都是 **Primitive values**
-Primitive values 是說 **immutable** 不可更改的它的 data and data strucutre
+Primitive values 是說 **immutable** 不可更改的它的 data and data strucutre.
+
+Javascript stores the primitive value on the stack (By value)
+Size of reference value is dynamic so Javascirpt store the reference value on the heap (By reference)
+
+
 1. undefined
 2. Boolean
 3. Number
 4. String
-5. BigInt
+5. null
 6. Symbol
 
 ## Structural Types
